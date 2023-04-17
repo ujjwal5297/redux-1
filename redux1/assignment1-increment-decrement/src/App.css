@@ -1,0 +1,11 @@
+.card {
+  cursor: pointer;
+}
+
+
+button {
+  cursor: pointer;
+  border-radius: 50px;
+  margin: 15px;
+  padding: 19px;
+}
